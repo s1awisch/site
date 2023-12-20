@@ -1,0 +1,47 @@
+.gallery {
+  width: 100%;
+}
+.first_text {
+  padding-top: 65px;
+  font-size: 18px;
+  font-weight: normal;
+  text-align: justify;
+}
+
+.rubber {
+  left: 0;
+  right: 200px;
+}
+
+.col1 {
+  background: #203F51;
+  width: 40%;
+  height: 310px;
+}
+
+.col2 {
+  background: #203F51;
+  width: 40%;
+  left: 41%;
+}
+
+.col3 {
+  background: white;
+  width: 380px;
+  right: 0;
+  text-align: center;
+}
+
+.coltext {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+.layout {
+  position: relative;
+}
+
+.layout DIV {
+  position: absolute;
+}
